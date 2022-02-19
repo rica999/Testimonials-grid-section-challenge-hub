@@ -14,7 +14,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-template-areas: "daniel 	daniel 	  jonathan  kira"
 						 "jeanette  patrick   patrick   kira";
-    gap: 18px;
+    gap: 25px;
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 .container .daniel{
